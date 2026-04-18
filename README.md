@@ -1,5 +1,5 @@
 #  Strong Hold - Landing Page
-Clique aqui para ver o site https://github.com/francisco-caio/strong-hold
+Clique aqui para ver o site https://francisco-caio.github.io/strong-hold/
 
 Landing page responsiva para academia de musculação, crossfit e artes marciais.
 
